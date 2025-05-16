@@ -1,7 +1,0 @@
-<svg viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background rectangle -->
-  <rect x="0" y="0" width="300" height="80" fill="#000000" />
-  
-  <!-- TypeGram text -->
-  <text x="70" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">Type<tspan fill="#4FD1C5">Gram</tspan></text>
-</svg>
